@@ -63,8 +63,7 @@ npm run build
 
 ## License
 
-MIT
-
+Ashish Pandey
 ---
 
-Made
+Made with ❤️ by Ashish Pandey
